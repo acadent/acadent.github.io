@@ -1,0 +1,23 @@
+# main links links
+main:
+  - title: "About"
+    url: /
+
+  # - title: "Awards and Honors"
+  #   url: /awards/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  - title: "Consulting"
+    url: /consulting/
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "CV"
+    url: /cv/
+
