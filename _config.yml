@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Raju Rangaswami"
 title_separator          : "-"
 name                     : &name "Raju Rangaswami"
-description              : &description "Eminent Scholar Chaired Professor of Computer Science, Knight Foundation School of Computing and Information Sciences"
+description              : &description "Eminent Scholar Chaired Professor, Knight Foundation School of Computing and Information Sciences"
 url                      : https://acadent.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "acadent/acadent.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Raju Rangaswami"
   avatar           : "raju.png"
-  bio              : "Eminent Scholar Chaired Professor of Computer Science, Knight Foundation School of Computing and Information Sciences"
+  bio              : "Eminent Scholar Chaired Professor, Knight Foundation School of Computing and Information Sciences"
   location         : "Miami, FL"
   employer         : "Florida International Univ"
   pubmed           :
