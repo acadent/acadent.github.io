@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-Raju Rangaswami directs the [Systems Research Laboratory](http://sylab-srv.cs.fiu.edu/) at Florida International University. Research in our lab focuses on the building next-generation software systems drawing from the areas of operating systems, distributed systems, storage systems, computer security, and real-time systems. We build systems-level software, libraries, and toolchain for applications that span web, cloud, and mobile. Here is a [list of students](/students) who are current/former members of the lab.
+Raju Rangaswami directs the [Systems Research Laboratory (SyLab)](http://sylab-srv.cs.fiu.edu/) at Florida International University. Research at SyLab focuses on the building next-generation software systems drawing from the areas of operating systems, distributed systems, memory and storage systems, computer security, and real-time systems. We build systems-level software, libraries, and software toolchains for applications that span web, cloud, and mobile. Here is a [list of students](/students) who are current/former members of the lab.
 
 
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=-Y_xfI8AAAAJ)
