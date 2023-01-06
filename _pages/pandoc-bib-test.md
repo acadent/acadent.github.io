@@ -1,0 +1,4 @@
+---
+bibliography: raju.bib
+nocite: "@*"
+---

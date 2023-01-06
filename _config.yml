@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Raju Rangaswami"
 title_separator          : "-"
 name                     : &name "Raju Rangaswami"
-description              : &description "personal description"
-url                      : https://rajurangaswami.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Eminent Scholar Chaired Professor of Computer Science"
+url                      : https://acadent.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rajurangaswami/rajurangaswami.github.io"
+repository               : "acadent/acadent.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Raju Rangaswami"
   avatar           : "raju.png"
-  bio              : "Professor of Computer Science"
+  bio              : "Eminent Scholar Chaired Professor of Computer Science"
   location         : "Miami, FL"
   employer         : "Florida International Univ"
   pubmed           :

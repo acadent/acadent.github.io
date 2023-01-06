@@ -3,17 +3,19 @@ main:
   - title: "About"
     url: /
 
-  # - title: "Awards and Honors"
-  #   url: /awards/
+  - title: "Research"
+    url: /research/
 
-  # - title: "Talks"
-  #   url: /talks/
 
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
 
-  - title: "Consulting"
-    url: /consulting/
+  # - title: "Consulting"
+  #   url: /consulting/
+
+  - title: "Service"
+    url: /service/
+
 
   - title: "Contact"
     url: /contact/
