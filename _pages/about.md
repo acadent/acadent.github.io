@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Raju Rangaswami am a Professor of Computer Science at Florida International University where he directs the [Systems Research Laboratory](http://sylab-srv.cs.fiu.edu/). His work focuses on computer systems and software, including operating systems, distributed systems, storage systems, computer security, and real-time systems as well as application domains such as web services, databases, cloud computing, and mobile computing. He is a recipient of the NSF CAREER award, the Department of Energy Early CAREER Principal Investigator (ECPI) award, an Intel University Research Office (URO) Award, the IBM Faculty Award, Seagate Technology research award, and Faculty Fellowships from NetApp. Here's a link to his full [CV](/cv/).
+Raju Rangaswami is Eminent Scholar Chaired Professor of Computer Science at Florida International University where he directs the [Systems Research Laboratory](http://sylab-srv.cs.fiu.edu/). His work focuses on computer systems and software, including operating systems, distributed systems, storage systems, computer security, and real-time systems as well as application domains such as web services, databases, cloud computing, and mobile computing. He is a recipient of the NSF CAREER award, the Department of Energy Early CAREER Principal Investigator (ECPI) award, an Intel University Research Office (URO) Award, the IBM Faculty Award, Seagate Technology research award, and Faculty Fellowships from NetApp. Here's a link to his full [CV](/cv/).
+
 
 Background and Education
 ------
+
 Raju Rangaswami received M.S. and Ph.D. degrees in Computer Science from the [University of California at Santa Barbara](https://www.cs.ucsb.edu/). Previously I earned a B.Tech. degree in Computer Science from the [Indian Institute of Technology, Kharagpur](http://cse.iitkgp.ac.in/), India.
+
 
 Honors and Awards
 ------
