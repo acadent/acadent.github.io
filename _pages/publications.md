@@ -251,7 +251,7 @@ Journal Publications
   Vasily Tarasov, Lukas Rupprecht, Dimitris Skourtis, Wenji Li, Raju Rangaswami, and Ming Zhao.
   Springer Journal of Cluster Computing, January 2019.
 
-* LibPM: Simplifying Application Usage of Persistent Memory” [PDF](http://www.cs.fiu.edu/%7Eraju/WWW/publications/acm_tos_2018/paper.pdf)
+* LibPM: Simplifying Application Usage of Persistent Memory” [PDF](http://www.cs.fiu.edu/%7Eraju/WWW/publications/acmtos2018/paper.pdf)
   Leonardo Marmol, Mohammad Chowdhury, and Raju Rangaswami.
   ACM Transactions on Storage, 14(4), December 2018.
 
