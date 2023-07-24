@@ -16,6 +16,9 @@ redirect_from:
 
 Conference and Workshop Proceedings
 
+* Allocation Policies Matter for Hybrid Memory Systems [PDF](http://www.cs.fiu.edu/%7Eraju/WWW/publications/hpdc2023/paper.pdf))
+  Adnan Maruf, Daniel Carlson, Ashikee Ghosh, Manoj Saha, Janki Bhimani, and Raju Rangaswami.
+  Proceedings of the International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC’23), Orlando, FL, 2023. (Short Paper)
 
 
 * FAB Storage for the Hybrid Cloud ([PDF](http://www.cs.fiu.edu/%7Eraju/WWW/publications/nas2022/paper.pdf))
