@@ -19,6 +19,8 @@ Raju Rangaswami received M.S. and Ph.D. degrees in Computer Science from the [Un
 
 Honors and Awards
 ------
+- Seagate Technology Research Award, 2023.
+- NetApp Faculty Fellowship, 2023.
 - Seagate Technology Research Award, 2022.
 - IBM Distinguished Speaker, 2021.
 - NetApp Faculty Fellowship, 2016.
