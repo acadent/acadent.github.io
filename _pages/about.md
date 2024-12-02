@@ -14,7 +14,7 @@ Raju Rangaswami is Eminent Scholar Chaired Professor of Computer Science at the 
 Background and Education
 ------
 
-Raju Rangaswami received M.S. and Ph.D. degrees in Computer Science from the [University of California at Santa Barbara](https://www.cs.ucsb.edu/). Previously I earned a B.Tech. degree in Computer Science from the [Indian Institute of Technology, Kharagpur](http://cse.iitkgp.ac.in/), India.
+Raju Rangaswami received M.S. and Ph.D. degrees in Computer Science from the [University of California at Santa Barbara](https://www.cs.ucsb.edu/). Previously he earned a B.Tech. degree in Computer Science from the [Indian Institute of Technology, Kharagpur](http://cse.iitkgp.ac.in/), India.
 
 
 Honors and Awards
