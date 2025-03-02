@@ -16,6 +16,14 @@ redirect_from:
 
 Conference and Workshop Proceeding
 
+* GitTemporalAI: Leveraging Temporal Knowledge Graphs and LLMs for Multi-Agent Repository Intelligence ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/marw2025/paper.pdf))
+  Dongsheng Luo, Raju Rangaswami, Amir Rahmati, and Erez Zadok.
+  Proceedings of the Multi-Agent AI in the Real World (MARW) Workshop at AAAI, March 2025.
+
+* Individual fairness with group constraints in graph neural networks ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/ecai2024/paper.pdf))
+  Wang, Zichong, David Ulloa, Tongjia Yu, Raju Rangaswami, Roland Yap, and Wenbin Zhang.
+  Proceedings of the European Conference on Artificial Intelligence (ECAI), October 2024.
+
 * Allocation Policies Matter for Hybrid Memory Systems ([PDF](http://www.cs.fiu.edu/%7Eraju/WWW/publications/hpdc2023/paper.pdf))
   Adnan Maruf, Daniel Carlson, Ashikee Ghosh, Manoj Saha, Janki Bhimani, and Raju Rangaswami.
   Proceedings of the International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC’23), June 2023. (Short Paper)
