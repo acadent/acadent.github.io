@@ -11,10 +11,8 @@ redirect_from:
 
 Current Students
 ------
-- Liana Valdes, PhD
+- Robert Fortunato, PhD
 - Alexis Gonzalez, PhD
-- Fernando Cabanes, BS
-- Daniel Nunez Dominguez, BS
 
 
 
@@ -30,6 +28,7 @@ PhD Graduates (&rarr; First employment)
 - Steven Lyons, 2021 &rarr; Google
 - Leonardo Marmol, 2019 &rarr; Google
 - Luis Useche, 2012 &rarr; VMware
+- Liana Valdes, 2023 &rarr;
 
 
 Masters Graduates (&rarr; Currently at)
@@ -51,6 +50,9 @@ Masters Graduates (&rarr; Currently at)
 Bachelors Graduates
 ------
 
+- Gabriel Nogueras, 2024
+- Fernando Cabanes, 2023
+- Daniel Nunez Dominguez, 2022
 - Alexis Gonzales, 2020
 - Stephen Ballesteros, 2020
 - Darya Chepurna, 2020
