@@ -16,6 +16,15 @@ redirect_from:
 
 Conference and Workshop Proceeding
 
+
+* Idiosyncrasies of Programmable Caching Engines ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/rldm2025/paper1.pdf))
+  José Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, and Ricardo Macedo
+  Presented at the Workshop on Reliable Large-scale Data Management (RLDM), September 2025.
+
+* One Does Not Simply Cache: A Study on Distributed Caches for AI Training in HPC ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/rldm2025/paper2.pdf))
+  André Ferreira,, Gonçalo Sousa,, Amit Ruhela, John Cazes, Janki Bhimani, Raju Rangaswami, Ricardo Macedo,, Cláudia Brito, and João Paulo
+  Presented at the Workshop on Reliable Large-scale Data Management (RLDM), September 2025.
+
 * GitTemporalAI: Leveraging Temporal Knowledge Graphs and LLMs for Multi-Agent Repository Intelligence ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/marw2025/paper.pdf))
   Dongsheng Luo, Raju Rangaswami, Amir Rahmati, and Erez Zadok.
   Proceedings of the Multi-Agent AI in the Real World (MARW) Workshop at AAAI, March 2025.
