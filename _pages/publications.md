@@ -16,6 +16,9 @@ redirect_from:
 
 Conference and Workshop Proceeding
 
+* LATTICE: Efficient In-Memory DNN Model Versioning ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/systor2025/paper.pdf))
+  Manoj Pravakar Saha, Ashikee Ghosh, Raju Rangaswami, Yanzhao Wu, and Janki Bhimani
+  Proceedings of the 18th ACM International Systems and Storage (SYSTOR) Conference, September 2025.
 
 * Idiosyncrasies of Programmable Caching Engines ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/rldm2025/paper1.pdf))
   José Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, and Ricardo Macedo

@@ -15,6 +15,10 @@ Raju Rangaswami directs the [Systems Research Laboratory (SyLab)](http://sylab-s
 Recent Publications ([Full Publication List](/publications/))
 ------
 
+* LATTICE: Efficient In-Memory DNN Model Versioning ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/systor2025/paper.pdf))
+  Manoj Pravakar Saha, Ashikee Ghosh, Raju Rangaswami, Yanzhao Wu, and Janki Bhimani
+  Proceedings of the 18th ACM International Systems and Storage (SYSTOR) Conference, September 2025.
+
 * GitTemporalAI: Leveraging Temporal Knowledge Graphs and LLMs for Multi-Agent Repository Intelligence ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/marw2025/paper.pdf))
   Dongsheng Luo, Raju Rangaswami, Amir Rahmati, and Erez Zadok.
   Proceedings of the Multi-Agent AI in the Real World (MARW) Workshop at AAAI, March 2025.
