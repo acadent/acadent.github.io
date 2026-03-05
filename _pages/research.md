@@ -14,6 +14,10 @@ Raju Rangaswami directs the [Systems Research Laboratory (SyLab)](http://sylab-s
 
 Recent Publications ([Full Publication List](/publications/))
 ------
+*  Holpaca: Holistic and Adaptable Cache Management for Shared
+Environments ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/icpe2026/paper.pdf))
+  José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, and  Ricardo Macedo
+  Proceedings of the 17th ACM/SPEC International   Conference on Performance Engineering (ICPE), May 2026.
 
 * LATTICE: Efficient In-Memory DNN Model Versioning ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/systor2025/paper.pdf))
   Manoj Pravakar Saha, Ashikee Ghosh, Raju Rangaswami, Yanzhao Wu, and Janki Bhimani
