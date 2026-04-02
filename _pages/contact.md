@@ -13,7 +13,7 @@ My contact information is below. The best way to reach me is via email.
 Miami FL 33199 \
 USA
 
-**E-mail**: [firstname] [at] cs [dot] fiu [dot] edu\
+**E-mail**: [firstname] [at] fiu [dot] edu\
 **Phone**: +1 305 . 348 . 6230 \
 
 <!-- Twitter: [Raju Rangaswami](https://twitter.com/precisum)\ -->
