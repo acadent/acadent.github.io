@@ -14,6 +14,11 @@ Raju Rangaswami directs the [Systems Research Laboratory (SyLab)](http://sylab-s
 
 Recent Publications ([Full Publication List](/publications/))
 ------
+
+*  Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/acmtaco2026/paper.pdf))
+  Manoj Saha, Yanzhao Wu, Cláudia Brito, Raju Rangaswami, João Paulo, Ricardo Macedo, and Janki Bhimani
+  ACM Transactions on Architecture and Code Optimization, Volume 23, Issue 3, August 2026.
+
 *  Holpaca: Holistic and Adaptable Cache Management for Shared
 Environments ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/icpe2026/paper.pdf))
   José Pedro Peixoto, Alexis Gonzalez, Janki Bhimani, Raju Rangaswami, Cláudia Brito, João Paulo, and  Ricardo Macedo
@@ -37,7 +42,7 @@ Environments ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/icpe2026/pa
 
 * Finding Optimal Non-Datapath Caching Strategies via Network Flow ([PDF](http://www.cs.fiu.edu/%7Eraju/WWW/publications/elsevier_tcs_2023/paper.pdf))
     Steven Lyons, Raju Rangaswami, and Ning Xie.
-    Theoretical Computer Science, January 2023.
+    Theoretical Computer Science, Volume 945, February 2023.
 
 * FAB Storage for the Hybrid Cloud ([PDF](http://www.cs.fiu.edu/%7Eraju/WWW/publications/nas2022/paper.pdf))
   Raju Rangaswami

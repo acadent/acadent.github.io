@@ -270,13 +270,17 @@ IEEE International Conference on Multimedia and Expo, Tokyo, August 2001.[](http
 
 Journal Publications
 
-* To Cache or Not to Cachee ([Paper](https://www.mdpi.com/1999-4893/17/7/301))
+*  Fragment: Efficient DNN Checkpoint with Relaxed Model Consistency ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/acmtaco2026/paper.pdf))
+  Manoj Saha, Yanzhao Wu, Cláudia Brito, Raju Rangaswami, João Paulo, Ricardo Macedo, and Janki Bhimani
+  ACM Transactions on Architecture and Code Optimization, Volume 23, Issue 3, August 2026.
+
+* To Cache or Not to Cache ([Paper](https://www.mdpi.com/1999-4893/17/7/301))
   Steven Lyons, Jr. and Raju Rangaswami.
   Algorithms 17(7):301, July 2024.
 
-* Finding Optimal Non-Datapath Caching Strategies via Network Flow, [PDF](http://www.cs.fiu.edu/%7Eraju/WWW/publications/elsevier_tcs_2023/paper.pdf)
+* Finding Optimal Non-Datapath Caching Strategies via Network Flow ([PDF](http://www.cs.fiu.edu/%7Eraju/WWW/publications/elsevier_tcs_2023/paper.pdf))
     Steven Lyons, Raju Rangaswami, and Ning Xie.
-    Theoretical Computer Science, January 2023.
+    Theoretical Computer Science, Volume 945, February 2023.
 
 * Evaluating Docker Storage Performance: from Workloads to Graph Drivers [PDF](http://www.cs.fiu.edu/%7Eraju/WWW/publications/springer_jcc_2019/paper.pdf)
   Vasily Tarasov, Lukas Rupprecht, Dimitris Skourtis, Wenji Li, Raju Rangaswami, and Ming Zhao.
