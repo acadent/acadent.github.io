@@ -14,8 +14,16 @@ redirect_from:
 
 * * *
 
-Conference and Workshop Proceeding
+Conference and Workshop Proceedings
 
+
+* Beyond Valid Commands: Security Limits of Command Mediation in ROS2-PX4 UAVs ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/dronesys2026/paper.pdf))
+  Alberto Espinoza, Behzad Ousat, Raju Rangaswami, and Amin Kharraz
+  Proceedings of the Workshop on Autonomous Drone Computing Systems and Applications (DroneSys), October 2026.
+
+* Understanding the Use and Impact of AI-Coding Assistants and Agents in System Development ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/pacmi2026/paper.pdf))
+  Weidong Zhu, Arjun Arunasalam, Chen Chen, and Raju Rangaswami
+  Proceedings of the Workshop on Practical Adoption Challenges of ML for Systems (PACMI), September 2026.
 
 * Holpaca: Holistic and Adaptable Cache Management for Shared
 Environments ([Paper](http://www.cs.fiu.edu/%7Eraju/WWW/publications/icpe2026/paper.pdf))
